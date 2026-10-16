@@ -16,6 +16,12 @@ What I build
 
 I care about clean boundaries between client and server, predictable APIs, and systems that stay readable after the first release. Most of my recent work lives in private production repositories.
 
+Public log
+
+- 📝 [devlog](https://github.com/anasayyaz/devlog) — shipping notes and small real commits alongside private client repos
+
+GitHub activity tip: if your contribution graph looks quiet while you push to private repos, enable **Include private contributions** under [profile contribution settings](https://github.com/settings/profile).
+
 Let’s work
 
 - 🔗 LinkedIn: https://pk.linkedin.com/in/anas-ayyaz
